@@ -68,7 +68,7 @@ This tool requires Xposed, so you need to get Xposed prepared by yourself and in
    a. 小程序超范围隐私收集报告，{TARGET_DIR}/{APPID}/over_collection_report.txt
    b. 小程序隐私政策文本模板，{TARGET_DIR}/{APPID}/privacy_policy_template.txt
 
-## 输出，下
+## 输出
 
 1. apkinfo.txt
 2. {APPID}
